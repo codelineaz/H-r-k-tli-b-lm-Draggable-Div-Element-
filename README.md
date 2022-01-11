@@ -1,6 +1,11 @@
 Diqqətinizə görə təşəkkürlər!
-Instagram --> codeline.az
-Telegram channel --> codelineaz
-Telegram group --> codelineazchat
-Github -->codelineaz
+
+Instagram --> https://instagram.com/codeline.az
+
+Telegram channel --> https://t.me/codelineaz
+
+Telegram group --> https://t.me/codelineazchat
+
+Github -->https://github.com/codelineaz
+
 Gmail --> codelineaz@gmail.com
